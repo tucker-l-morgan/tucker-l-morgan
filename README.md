@@ -1,4 +1,4 @@
-- Hi, I’m @tucker-l-morgan
+Hi, I’m Tucker!
 - 👀 I’m interested in machine learning, public health research, and data visualization.
 - 🌱 I’m currently learning database management along with methods in causal inference, survival analysis, and medical study design.
 - 💞️ I’m looking to collaborate on machine learning projects and data visualizations.
